@@ -94,38 +94,4 @@ See [usage docs](https://nf-co.re/rnaseq/usage) for all of the available options
 
 The nf-core/rnaseq pipeline comes with documentation about the pipeline: [usage](https://nf-co.re/rnaseq/usage) and [output](https://nf-co.re/rnaseq/output).
 
-## Credits
 
-These scripts were originally written for use at the [National Genomics Infrastructure](https://ngisweden.scilifelab.se), part of [SciLifeLab](http://www.scilifelab.se/) in Stockholm, Sweden, by Phil Ewels ([@ewels](https://github.com/ewels)) and Rickard Hammarén ([@Hammarn](https://github.com/Hammarn)).
-
-The pipeline was re-written in Nextflow DSL2 by Harshil Patel ([@drpatelh](https://github.com/drpatelh)) from [The Bioinformatics & Biostatistics Group](https://www.crick.ac.uk/research/science-technology-platforms/bioinformatics-and-biostatistics/) at [The Francis Crick Institute](https://www.crick.ac.uk/), London.
-
-Many thanks to other who have helped out along the way too, including (but not limited to):
-[@Galithil](https://github.com/Galithil),
-[@pditommaso](https://github.com/pditommaso),
-[@orzechoj](https://github.com/orzechoj),
-[@apeltzer](https://github.com/apeltzer),
-[@colindaven](https://github.com/colindaven),
-[@lpantano](https://github.com/lpantano),
-[@olgabot](https://github.com/olgabot),
-[@jburos](https://github.com/jburos).
-
-## Contributions and Support
-
-If you would like to contribute to this pipeline, please see the [contributing guidelines](.github/CONTRIBUTING.md).
-
-For further information or help, don't hesitate to get in touch on the [Slack `#rnaseq` channel](https://nfcore.slack.com/channels/rnaseq) (you can join with [this invite](https://nf-co.re/join/slack)).
-
-## Citations
-
-If you use  nf-core/rnaseq for your analysis, please cite it using the following doi: [10.5281/zenodo.1400710](https://doi.org/10.5281/zenodo.1400710)
-
-An extensive list of references for the tools used by the pipeline can be found in the [`CITATIONS.md`](CITATIONS.md) file.
-
-You can cite the `nf-core` publication as follows:
-
-> **The nf-core framework for community-curated bioinformatics pipelines.**
->
-> Philip Ewels, Alexander Peltzer, Sven Fillinger, Harshil Patel, Johannes Alneberg, Andreas Wilm, Maxime Ulysse Garcia, Paolo Di Tommaso & Sven Nahnsen.
->
-> _Nat Biotechnol._ 2020 Feb 13. doi: [10.1038/s41587-020-0439-x](https://dx.doi.org/10.1038/s41587-020-0439-x).
